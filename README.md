@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Laravel, SpringBoot
-- 👯 I’m looking to collaborate on AngularJS
+- 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m looking for help with Web development and programming
 - 💬 Ask me about Anything
 - 😄 Pronouns: She/Her
