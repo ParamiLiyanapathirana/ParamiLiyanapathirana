@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web development and programming
 - 💬 Ask me about Anything
 - 😄 Pronouns: She/Her
+
+
+![GitHub Stats](https://github-readme-stats.vercel.api?username=ParamiLiyanapathirana&theme=radical)
