@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramiliyanapathirana&label=Profile%20views&color=0e75b6&style=flat" alt="paramiliyanapathirana" /> </p>
 
-- 🔭 I’m currently working on **Management Information System Project**
+<!-- 🔭 I’m currently working on **Management Information System Project** -->
 
 - 🌱 I’m currently learning **Laravel, Spring boot**
 
 - 💬 Ask me about **anything**
-
+- 😄 Pronouns **She/Her**
 
 <p align="left">
 </p>
