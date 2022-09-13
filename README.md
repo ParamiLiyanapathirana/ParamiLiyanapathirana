@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- 🔭 I’m currently working on **Management Information System Project** -->
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **anything**
 - 😄 Pronouns **She/Her**
