@@ -1,19 +1,4 @@
-
-
-<!--
-**ParamiLiyanapathirana/ParamiLiyanapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Laravel, SpringBoot
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything
-- 📫 How to reach me: Twitter
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+[![@paramiliyanapathirana's Holopin board](https://holopin.me/paramiliyanapathirana)](https://holopin.io/@paramiliyanapathirana)
 [![@paramiliyanapathirana's Holopin board](https://holopin.me/paramiliyanapathirana)](https://holopin.io/@paramiliyanapathirana)
 <h1 align="center">Hi 👋, I'm Parami Liyanapathirana</h1>
 
@@ -39,3 +24,5 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramiliyanapathirana&show_icons=true&theme=dark&locale=en&layout=compact" alt="paramiliyanapathirana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramiliyanapathirana&theme=dark" alt="paramiliyanapathirana" /></p>
+
+
