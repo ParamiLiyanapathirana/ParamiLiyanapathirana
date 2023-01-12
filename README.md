@@ -1,5 +1,5 @@
 [![@paramiliyanapathirana's Holopin board](https://holopin.me/paramiliyanapathirana)](https://holopin.io/@paramiliyanapathirana)
-[![@paramiliyanapathirana's Holopin board](https://holopin.me/paramiliyanapathirana)](https://holopin.io/@paramiliyanapathirana)
+
 <h1 align="center">Hi 👋, I'm Parami Liyanapathirana</h1>
 
 
