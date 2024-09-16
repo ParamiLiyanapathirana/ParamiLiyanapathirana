@@ -7,7 +7,7 @@
 
 <!-- 🔭 I’m currently working on **Management Information System Project** -->
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **anything**
 - 😄 Pronouns **She/Her**
